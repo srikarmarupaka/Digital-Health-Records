@@ -1,0 +1,7 @@
+{
+  "name": "MediLink AI",
+  "description": "A comprehensive digital health records platform featuring MFA, doctor consultations, pharmacy, diagnostics, and emergency ambulance services, all powered by AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
